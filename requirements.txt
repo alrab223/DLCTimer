@@ -1,0 +1,7 @@
+altgraph==0.17.3
+pefile==2023.2.7
+pyinstaller==5.13.2
+pyinstaller-hooks-contrib==2023.8
+PySimpleGUI==4.60.5
+pywin32-ctypes==0.2.2
+PyYAML==6.0.1
